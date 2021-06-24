@@ -7,4 +7,4 @@
 
 
 ## Instructions to get started with DoMoBOT
-The URL to access the bot on Heroku cloud will be made available here during the RE'21 posters and tool demos session.
+The URL to access the bot on Heroku cloud will be available here during the RE'21 posters and tool demos session.
